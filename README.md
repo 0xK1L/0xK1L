@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=1F6FEB&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ahmad+Mazary;Penetration+Tester+%26+Red+Teamer;Global+Top+10+%40+Hack+The+Box;%231+Jordan+%7C+CTF+Competitor" alt="Typing banner" />
 
-![Profile views](https://komarev.com/ghpvc/?username=0xK1L&color=1F6FEB&style=flat-square&label=VIEWS)
+![Profile views](https://hits.sh/github.com/0xK1L.svg?style=flat-square&label=VIEWS&color=1F6FEB&labelColor=0D1117)
 ![Followers](https://img.shields.io/github/followers/0xK1L?style=flat-square&color=0D1117&labelColor=1F6FEB)
 
 </div>
